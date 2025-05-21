@@ -47,11 +47,6 @@ Yasin Motors is a **full-stack web application** designed for streamlined car re
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here (Admin Dashboard, Booking Form, Car Listings, etc.)
-
----
 
 ## 📍 Booking Workflow
 
